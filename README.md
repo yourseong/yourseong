@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my Github
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Web Frontend (HTML/CSS, JavaScript, React...)
